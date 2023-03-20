@@ -2,8 +2,8 @@ import React from 'react';
 
 const Portfolio = () => {
     return (
-        <section id="portfolio" className="py-5 bg-light">
-            <div className="container">
+        <section id="portfolio" className="py-5 bg-white">
+            <div className="container mt-2">
                 <h1>Portfolio</h1>
                 <p>Here are some of my recent projects:</p>
                 <div className="row">

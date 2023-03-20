@@ -25,7 +25,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top"> {/* add the "fixed-top" class */}
+      <nav className="navbar navbar-expand-lg navbar-light bg-secondary fixed-top"> {/* add the "fixed-top" class */}
         <div className="container-fluid">
           <h2 className="navbar-brand">My Portfolio</h2>
           <button
