@@ -13,3 +13,4 @@ root.render(
 
 
 reportWebVitals();
+// jq '. + {"homepage": "https://davidrose23.github.io/professional-react-portfolio"}' package.json | sponge package.json
